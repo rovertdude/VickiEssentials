@@ -1,8 +1,0 @@
-name: VickiEssentials
-version: 1.0
-main: com.vickifreedom.vickiessentials
-load: POSTWORLD
-database: false
-description: A plugin for the VickiFreedom server.
-authors: [rovertdude]
-commands:
