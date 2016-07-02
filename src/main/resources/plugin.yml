@@ -4,5 +4,5 @@ main: com.vickifreedom.vickiessentials
 load: POSTWORLD
 database: false
 description: A plugin for the VickiFreedom server.
-author: rovertdude
+authors: [rovertdude]
 commands:
